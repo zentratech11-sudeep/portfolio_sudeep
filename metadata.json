@@ -1,0 +1,6 @@
+{
+  "name": "DevCraft - Modern Developer Portfolio & Live Editor",
+  "description": "A responsive, high-contrast creative portfolio website for modern developers featuring interactive project gallery, verified certifications, animated skills, contact form, and live on-page text and image editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
